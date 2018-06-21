@@ -1,0 +1,26 @@
+<annotation>
+	<folder>license plate</folder>
+	<filename>033.jpeg</filename>
+	<path>/Users/hong/leehong/license plate/033.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>158</ymin>
+			<xmax>324</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>
