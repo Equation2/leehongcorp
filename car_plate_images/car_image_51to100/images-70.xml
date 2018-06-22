@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_image_51to100</folder>
+	<filename>images-70.jpg</filename>
+	<path>/Users/exem/leehong/car_image_51to100/images-70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>737</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>756</xmin>
+			<ymin>504</ymin>
+			<xmax>919</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>
