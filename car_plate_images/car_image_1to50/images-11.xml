@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_image_new</folder>
+	<filename>images-11.jpg</filename>
+	<path>/Users/exem/leehong/car_image_new/images-11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>455</ymin>
+			<xmax>790</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>
